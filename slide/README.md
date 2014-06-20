@@ -1,8 +1,10 @@
-# 书籍
+# 天猫前端布道者
+
+## 书籍
 
 0. 《[跨终端 Web](http://www.amazon.cn/dp/B00L2IAC1Q)》 @[鬼道][luics]  <sub>[样章](http://tmallfe.github.io/slide/cross-end-web-chapter1.pdf) | [勘误表](https://github.com/luics/luics.github.com/issues/13)</sub>
 
-# 分享
+## 分享
 
 0. [传感器](http://luics.github.io/demo/hybrid-api/hangjs) @[鬼道][luics] <sub>2014.06.22 for [@杭JS](http://2014.jsconf.cn/#schedule)</sub> 
 0. [跨终端的前端工程师](http://tmallfe.github.io/slide/cross-end-fe.pdf) @三七 <sub>2014.03.20 for 电⼦子科技⼤大学，2014.03.21 for 四川⼤大学</sub>
