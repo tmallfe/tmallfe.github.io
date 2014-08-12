@@ -8,7 +8,7 @@
 ## 分享
 
 0. [传感器 in Hybrid API](http://luics.github.io/demo/hybrid-api/iweb) @[鬼道][luics] <sub>2014.08.16 for [@iWeb](http://2014.html5dw.com/)</sub> 
-0. [从实验出发的移动端性能优化](http://velocity.oreilly.com.cn/2014/index.php?func=session&id=51) @由校 <sub>2014.08.12 for [@Velocity](http://velocity.oreilly.com.cn/2014/index.php)</sub>
+0. [从实验出发的移动端性能优化](http://tmallfe.github.io/slide/performance@velocity.pdf) @由校 <sub>2014.08.12 for [@Velocity](http://velocity.oreilly.com.cn/2014/index.php?func=session&id=51)</sub>
 0. [传感器](http://luics.github.io/demo/hybrid-api/hangjs) @[鬼道][luics] <sub>2014.06.22 for [@杭JS](http://2014.jsconf.cn/#schedule)</sub>
 0. [跨终端的前端工程师](http://tmallfe.github.io/slide/cross-end-fe.pdf) @三七 <sub>2014.03.20 for 电⼦子科技⼤大学，2014.03.21 for 四川⼤大学</sub>
 0. [高清化的天猫](http://tmallfe.github.io/slide/hd-tmall-googlewomen.pdf)  @流茵 <sub>2014.03.21 for [Google Women 技术交流](https://developers.google.com/women-techmakers/)</sub>
