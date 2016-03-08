@@ -1,6 +1,3 @@
-disqus: 天猫前端
-google_analytics: 天猫前端
-
 defaults:
   -
     scope:
