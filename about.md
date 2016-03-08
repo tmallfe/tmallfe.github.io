@@ -46,3 +46,16 @@ permalink: /about/
 ### 加入天猫
 
 对加入天猫前端团队有意向的，可以发简历到join-tmallfe@list.alibaba-inc.com，招聘要求见：https://job.alibaba.com/zhaopin/position_detail.htm?positionId=3504
+
+### 工作环境
+
+![img_8050](https://cloud.githubusercontent.com/assets/7637440/3065114/cafd9216-e25d-11e3-83ab-ce4b8484a82e.jpg)
+![img_8053](https://cloud.githubusercontent.com/assets/7637440/3065113/cafd8848-e25d-11e3-9fdb-4f6392193428.jpg)
+![img_8796](https://cloud.githubusercontent.com/assets/7637440/3065116/cafebb5a-e25d-11e3-823f-36f17c184db2.jpg)
+![img_8920](https://cloud.githubusercontent.com/assets/7637440/3065112/cafd707e-e25d-11e3-9c3f-9f2a8ce57a82.jpg)
+![img_8937](https://cloud.githubusercontent.com/assets/7637440/3065117/caff5286-e25d-11e3-9d7b-6a9a90081e76.jpg)
+![img_9622](https://cloud.githubusercontent.com/assets/7637440/3065118/cb2caeca-e25d-11e3-9e15-0d0178ccc036.jpg)
+![img_9629](https://cloud.githubusercontent.com/assets/7637440/3065119/cb2cb03c-e25d-11e3-87e0-7ae8f90f81de.jpg)
+![img_9571](https://cloud.githubusercontent.com/assets/7637440/3065120/cb2ebefe-e25d-11e3-858a-10482803238f.jpg)
+![img_8538](https://cloud.githubusercontent.com/assets/7637440/3065115/cafdd79e-e25d-11e3-8f81-9c53e80ac4f7.jpg)
+![img_9722](https://cloud.githubusercontent.com/assets/7637440/3065121/cb2f22e0-e25d-11e3-903e-311cce422f24.jpg)
