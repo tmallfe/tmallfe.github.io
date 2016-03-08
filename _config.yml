@@ -1,3 +1,13 @@
+disqus: 天猫前端
+google_analytics: 天猫前端
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: 天猫前端
+
 title: 天猫前端
 description: 天猫前端
 url: "http://tmallfe.github.io"
