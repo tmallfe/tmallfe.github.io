@@ -1,0 +1,63 @@
+<!-- sidebar.html -->
+<header class="sidebar-header" role="banner">
+	<a href="{{ site.BASE_PATH }}/">
+		<img src="https://img.alicdn.com/tps/TB1nWqeLpXXXXcKXXXXXXXXXXXX-290-153.png" class="img-circle" />
+	</a>
+	<h3 class="title">
+        <a href="{{ site.BASE_PATH }}/">{{ site.title }}</a>
+    </h3>
+</header>
+
+{% if site.author.bio %}
+<div id="bio" class="text-center">
+	{{ site.author.bio }}
+</div>
+{% endif %}
+
+<div id="contact-list" class="text-center">
+	<ul class="list-unstyled list-inline">
+		{% if site.author.github %}
+		<li>
+			<a class="btn btn-default btn-sm" href="https://github.com/{{ site.author.github }}">
+				<i class="fa fa-github-alt fa-lg"></i>
+			</a>
+		</li>
+		{% endif %}
+		{% if site.author.twitter %}
+		<li>
+			<a class="btn btn-default btn-sm" href="https://twitter.com/{{ site.author.twitter }}">
+				<i class="fa fa-twitter fa-lg"></i>
+			</a>
+		</li>
+		{% endif %}
+		{% if site.author.email %}
+		<li>
+			<a class="btn btn-default btn-sm" href="mailto:{{ site.author.email }}">
+				<i class="fa fa-envelope fa-lg"></i>
+			</a>
+		</li>
+		{% endif %}
+	</ul>
+	<ul id="contact-list-secondary" class="list-unstyled list-inline">
+		{% if site.author.pinterest %}
+		<li>
+			<a class="btn btn-default btn-sm" href="https://pinterest.com/{{ site.author.pinterest }}">
+				<i class="fa fa-pinterest fa-lg"></i>
+			</a>
+		</li>
+		{% endif %}
+		{% if site.author.linkedin %}
+		<li>
+			<a class="btn btn-default btn-sm" href="https://linkedin.com/in/{{ site.author.linkedin }}">
+				<i class="fa fa-linkedin fa-lg"></i>
+			</a>
+		</li>
+		{% endif %}
+		<li>
+			<a class="btn btn-default btn-sm" href="{{ site.BASE_PATH }}/{{ site.rss_path }}">
+				<i class="fa fa-rss fa-lg"></i>
+			</a>
+		</li>
+	</ul>
+</div>
+<!-- sidebar.html end -->

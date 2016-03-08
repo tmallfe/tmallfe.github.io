@@ -1,0 +1,4 @@
+---
+layout: default
+---
+{% include page.html %}
