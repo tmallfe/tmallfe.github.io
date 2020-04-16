@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     colorator (0.1)
-    ffi (1.9.8)
+    ffi (1.11.2)
     jekyll (3.1.2)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
